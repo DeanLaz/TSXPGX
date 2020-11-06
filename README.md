@@ -4,12 +4,12 @@
 
 Github Repo for my Course Projects Playground using Mainly Typescript & React + Others
 
-## TodoX
+## PlanX
 
-Todo App using TSX
+Simple To-Do App using TSX
 Add & Remove Todos, Fetch, Etc.
 
-#### TodoX Tech:
+#### PlanX Tech:
 
 - React
 - Typescript
