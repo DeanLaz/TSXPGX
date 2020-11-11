@@ -14,9 +14,10 @@ Add & Remove Todos, Fetch, Etc.
 - React
 - Typescript
 - Redux
+- Axios
 
 ### Credit
 
-### Stephen Grider Course
+#### Stephen Grider Course
 
 - Typescript: "The Complete Developers Guide"
